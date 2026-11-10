@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<custom_gcodes_per_layer>
+<plate>
+<plate_info id="6"/>
+<mode value="MultiAsSingle"/>
+</plate>
+<plate>
+<plate_info id="9"/>
+<mode value="MultiAsSingle"/>
+</plate>
+</custom_gcodes_per_layer>
